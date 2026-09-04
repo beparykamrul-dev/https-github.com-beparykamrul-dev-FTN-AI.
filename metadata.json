@@ -1,0 +1,7 @@
+{
+  "name": "FTN AI Ecosystem",
+  "description": "An enterprise-grade AI ecosystem built for scalability and security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
